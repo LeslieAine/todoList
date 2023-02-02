@@ -1,3 +1,4 @@
+/* eslint-disable import/no-unresolved */
 import { renderToDoList } from './modules/listTasks.js';
 import toDoTasks from './toDoTasks.js';
 import './modules/eventListeners.js';
